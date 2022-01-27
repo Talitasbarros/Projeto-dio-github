@@ -1,0 +1,3 @@
+comando não ensinados / novos
+
+git add . / ou git add *
